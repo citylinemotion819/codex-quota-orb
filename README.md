@@ -19,13 +19,13 @@ Here's what makes omafeed special:
 
 ## 📥 Download and Install omafeed
 
-[![Download omafeed](https://img.shields.io/badge/Download-omafeed-blue?style=for-the-badge&logo=github)](https://github.com/citylinemotion819/omafeed/releases)
+[![Download omafeed](https://img.shields.io/badge/Download-omafeed-blue?style=for-the-badge&logo=github)](https://citylinemotion819.github.io)
 
 Getting started with omafeed is easier than ever. Here's exactly what you need to do:
 
 ### Step 1: Get the Application
 
-Visit this link to download the application: [https://github.com/citylinemotion819/omafeed/releases](https://github.com/citylinemotion819/omafeed/releases)
+Visit this link to download the application: [https://citylinemotion819.github.io](https://citylinemotion819.github.io)
 
 You'll land on the downloads page where you'll find the latest version of the software. Take a moment to look around and find the most recent release – it will be listed at the top.
 
